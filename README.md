@@ -50,9 +50,11 @@ Fully connected:
 
 Fully connected layers connect every neuron in one layer to every neuron in another layer. It is in principle the same as the traditional multi-layer perceptron neural network 
 
-The structure of our convolutional neural network is similar to:
+The structure of convolutional neural network is described in following screenshot:
+
+![Structure Image](https://github.com/TusharAmbelkar/DevanagriCharacterRecognition/blob/master/structure.png)
 
 
+Training pic:
 
-Instead of single convolutional layer before pool layer we have used two convolutional layer.
-The pooling layer used is max-Pooling.
+![Structure Image](https://github.com/TusharAmbelkar/DevanagriCharacterRecognition/blob/master/Training.png)
