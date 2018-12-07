@@ -3,6 +3,12 @@
 ## Problem Statement:
 * To create a classifier model to recognise handwritten devanagari characters and use the model to test a given image.
 ## Description of dataset:
+
+Available at:
+
+https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset
+
+
 * Data-type: Gray-scale image
 * Classes: 46 (36 characters,10 digits)
 * Dataset size: 92000(2000 examples of each class)
