@@ -64,3 +64,8 @@ The structure of convolutional neural network is described in following screensh
 Training pic:
 
 ![Structure Image](https://github.com/TusharAmbelkar/DevanagriCharacterRecognition/blob/master/Training.png)
+
+
+## Alternate implementation:
+
+https://colab.research.google.com/drive/1YLLPRb8J2KaHSaCz9JhM4hD92084dFSa
